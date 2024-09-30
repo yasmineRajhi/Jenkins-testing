@@ -11,8 +11,8 @@ pipeline {
            steps {
 
                git branch: 'master',
-
-               url: ' https://github.com/hwafa/timesheetproject.git'
+               url: 'https://github.com/yasmineRajhi/Jenkins-testing'
+               //url: 'https://github.com/hwafa/timesheetproject.git'
 
           }
 
